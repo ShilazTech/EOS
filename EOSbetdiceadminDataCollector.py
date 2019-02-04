@@ -1,9 +1,6 @@
 import eospy.cleos
 import os
 from eospy.keys import EOSKey
-from Cryptodome.PublicKey import RSA
-from Cryptodome import Random
-import re
 import time
 import csv
 from datetime import datetime
